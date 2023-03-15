@@ -1,4 +1,27 @@
-### Hi there 👋
+# Hi there 👋
+https://img.shields.io/badge/Instagram-E4405F?style-for-the-badge&logo=instagram
+
+![snake gif](https://github.com/debysouza/debysouza/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **CaduuuS2/CaduuuS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake gif](https://github.com/debysouza/debysouza/blob/output/github-contribution-grid-snake.svg)
