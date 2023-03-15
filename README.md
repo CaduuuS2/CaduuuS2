@@ -1,5 +1,5 @@
 # Hi there 👋
-https://img.shields.io/badge/Instagram-E4405F?style-for-the-badge&logo=instagram
+[![@caduuu_sz](https://img.shields.io/badge/Instagram-E4405F?style-for-the-badge&logo=instagram& logoColor=white)](https://www.instagram.com//)
 
 ![snake gif](https://github.com/debysouza/debysouza/blob/output/github-contribution-grid-snake.svg)
 
