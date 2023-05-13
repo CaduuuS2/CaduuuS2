@@ -1,6 +1,5 @@
 # Hi there 👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style-for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caduuu_sz/)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaduuuS2)](https://github.com/CaduuuS2/github-readme-stats)
 ![snake gif](https://github.com/debysouza/debysouza/blob/output/github-contribution-grid-snake.svg)
 
 
