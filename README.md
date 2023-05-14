@@ -17,7 +17,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaduuuS2&show_icons=true&count_private=true&hide_border=true&title_color=007A33&icon_color=007A33&text_color=FFFFFF&bg_color=0d1117" alt="Cadu github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduuuS2&layout=compact&hide_border=true&title_color=007A33&text_color=FFFFFF&bg_color=0d1117" />
 </div>
-![snake gif](https://github.com/CaduuuS2/CaduuuS2/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
